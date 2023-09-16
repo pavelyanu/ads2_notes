@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"74a314020931dc3d","type":"file","file":"Strings/Concepts/Text Search Problem.md","x":-140,"y":-300,"width":400,"height":180},
+		{"id":"013b118038595ca9","type":"file","file":"Strings/Algorithms/Naive.md","x":-180,"y":100,"width":480,"height":520},
+		{"id":"a49fc6f237ed19a4","type":"file","file":"Strings/Algorithms/KMP Algorithm.md","x":500,"y":100,"width":600,"height":4080}
+	],
+	"edges":[]
+}
